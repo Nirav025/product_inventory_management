@@ -1,4 +1,4 @@
-# Product Inventory Management System
+# 📦 Product Inventory Management System
 
 This project is a **fully responsive inventory management system** developed using **React** and **Bootstrap**, designed with a clean and practical UI. Users can **add, update, delete, and manage products** with details like category, price, and stock, making it useful for **real-life shops**.
 
